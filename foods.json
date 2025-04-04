@@ -1,0 +1,14 @@
+[
+  {
+    "name": "고추장 스프 젤리",
+    "description": "달콤한 젤리에 고추장 라면 스프를 뿌려먹는 상상 그 이상!",
+    "date": "2025-04-04",
+    "image": "gochujelly.png"
+  },
+  {
+    "name": "멜론맛 뿌셔뿌셔",
+    "description": "초록색 라면스낵...? 달콤한 향기 속 매운맛의 반전!",
+    "date": "2025-04-03",
+    "image": "melonramen.png"
+  }
+]
